@@ -1,0 +1,27 @@
+JsonConfig
+Son las configuraciones globales para para el dispositivo (Nombre(importante cambiarlo manualmente por defecto sera Totem1), ModoControl(por defecto estara en local))
+ModoControl (local, googledrive, usb)
+
+local -> busca los videos a reproducir y la configuracion de rutinas en la carpeta con su nombre o indentificador ubicada en la carpeta llamada "Videos".
+usb(Desactivado momentaneamente) -> busca los videos a reproducir y la configuracion de rutinas en la carpeta con su nombre o identificador ubicada en una memoria usb conectada al equipo con la letra (S)
+googledrive(Desactivado momentaneamente) -> busca los videos a reproducir y la configuracion de rutinas en la carpeta con su nombre o identificador ubicada en la unidad de google drive(debe ser instalado por el usuario)
+
+Rutinas.json
+en este archivo json estarán los parámetros que puede modificar mientras el dispositivo este en uso. como por ejemplo el volumen, una vez cambiado este se guardara hasta que el usuario vuelva a cambiarlo nuevamente.
+
+en el archivo se encuentran en el lado izquierdo los nombres de las variables (Lunes,Martes,Miercoles, Jueves, Viernes Sabado, Domingo, HoraDeReposo, estado, Volumen, FullScreen) las cuales no deben ser modificadas o borradas, y en el lado derecho separado por dos puntos y encerrados en llaves se encuentran los valores de dichos parametros.
+
+Dias de la semana -> para los dias de la semana podemos modificar los valores hora inicio y hora fin los cuales corresponden a las horas en las que el programa empezara la reprodución de los video s y en la que se detendra por completo.
+ejm: si desearamos que los días Lunes el programa se iniciara a las 8:00 am y terminara a las 9:00 pm. deberiamos modificar la hora inicio y hora fin de el día Lunes de la siguiente forma. "Hora_inicio":"08:00" y "Hora_Fin":"22:00"
+
+Hora de reposo -> la hora de reposo es la hora en el que dispositivo estara encendido, pero sin ninguna reproduccion en proceso. el programa estara en ejecucion a la espera de que la hora de reposo especificada culmine, y retomar la reproducción. por defecto estara de 12:00 del medio dia hasta las 02:00 pm.
+
+estado -> con este parametro podemos especificar el estado en que queremos que este el dispositivo en tiempo real. los valores que puede tomar este parametro son(play,pause,stop). 
+
+Volumen -> con este parametro podemos especificar el volumen del dispositivo. puede tomar valores de 0 a 100.
+
+FullScreen -> con este parametro podemos cambiar de pantalla completa a Modo ventana (true, false)
+
+
+ 
+

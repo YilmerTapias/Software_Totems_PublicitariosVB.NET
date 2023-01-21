@@ -1,0 +1,15 @@
+{
+	"Lunes" : {"Hora_inicio": "09:00","Hora_Fin": "22:00"},
+	"Martes" : {"Hora_inicio": "09:00","Hora_Fin": "22:00"},
+	"Miercoles" : {"Hora_inicio": "09:00","Hora_Fin": "22:00"},
+	"Jueves" : {"Hora_inicio": "09:00","Hora_Fin": "22:00"},
+	"Viernes" : {"Hora_inicio": "09:00","Hora_Fin": "23:00"},
+	"Sabado" : {"Hora_inicio": "09:00","Hora_Fin": "22:00"},
+	"Domingo" : {"Hora_inicio": "09:00","Hora_Fin": "22:00"},
+	"HoraDeReposo": {"desde": "12:00","hasta": "14:00"},
+	"estado":"play",
+	"Volumen":"50",
+	"FullScreen":"false",
+	"CapturarPantalla": "true"
+	
+}

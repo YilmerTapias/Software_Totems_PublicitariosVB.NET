@@ -1,0 +1,40 @@
+D:\ProyectoSion\TotemPublicitarioSystem\bin\Debug\TotemPublicitarioSystem.exe.config
+D:\ProyectoSion\TotemPublicitarioSystem\bin\Debug\TotemPublicitarioSystem.exe
+D:\ProyectoSion\TotemPublicitarioSystem\bin\Debug\TotemPublicitarioSystem.pdb
+D:\ProyectoSion\TotemPublicitarioSystem\bin\Debug\TotemPublicitarioSystem.xml
+D:\ProyectoSion\TotemPublicitarioSystem\bin\Debug\Interop.WMPLib.dll
+D:\ProyectoSion\TotemPublicitarioSystem\bin\Debug\AxInterop.WMPLib.dll
+D:\ProyectoSion\TotemPublicitarioSystem\obj\Debug\TotemPublicitarioSystem.vbproj.AssemblyReference.cache
+D:\ProyectoSion\TotemPublicitarioSystem\obj\Debug\Interop.WMPLib.dll
+D:\ProyectoSion\TotemPublicitarioSystem\obj\Debug\AxInterop.WMPLib.dll
+D:\ProyectoSion\TotemPublicitarioSystem\obj\Debug\TotemPublicitarioSystem.vbproj.ResolveComReference.cache
+D:\ProyectoSion\TotemPublicitarioSystem\obj\Debug\TotemPublicitarioSystem.Form1.resources
+D:\ProyectoSion\TotemPublicitarioSystem\obj\Debug\TotemPublicitarioSystem.Resources.resources
+D:\ProyectoSion\TotemPublicitarioSystem\obj\Debug\TotemPublicitarioSystem.vbproj.GenerateResource.cache
+D:\ProyectoSion\TotemPublicitarioSystem\obj\Debug\TotemPublicitarioSystem.vbproj.CoreCompileInputs.cache
+D:\ProyectoSion\TotemPublicitarioSystem\obj\Debug\TotemPublicitarioSystem.exe
+D:\ProyectoSion\TotemPublicitarioSystem\obj\Debug\TotemPublicitarioSystem.xml
+D:\ProyectoSion\TotemPublicitarioSystem\obj\Debug\TotemPublicitarioSystem.pdb
+D:\ProyectoSion\TotemPublicitarioSystem\bin\Debug\Newtonsoft.Json.dll
+D:\ProyectoSion\TotemPublicitarioSystem\bin\Debug\Newtonsoft.Json.xml
+D:\ProyectoSion\TotemPublicitarioSystem\obj\Debug\TotemPublicitarioSystem.vbproj.CopyComplete
+C:\Users\BORA BORA\Desktop\TotemPublicitarioSystem\bin\Debug\TotemPublicitarioSystem.exe.config
+C:\Users\BORA BORA\Desktop\TotemPublicitarioSystem\bin\Debug\TotemPublicitarioSystem.exe
+C:\Users\BORA BORA\Desktop\TotemPublicitarioSystem\bin\Debug\TotemPublicitarioSystem.pdb
+C:\Users\BORA BORA\Desktop\TotemPublicitarioSystem\bin\Debug\TotemPublicitarioSystem.xml
+C:\Users\BORA BORA\Desktop\TotemPublicitarioSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BORA BORA\Desktop\TotemPublicitarioSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BORA BORA\Desktop\TotemPublicitarioSystem\bin\Debug\Interop.WMPLib.dll
+C:\Users\BORA BORA\Desktop\TotemPublicitarioSystem\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\BORA BORA\Desktop\TotemPublicitarioSystem\obj\Debug\TotemPublicitarioSystem.vbproj.AssemblyReference.cache
+C:\Users\BORA BORA\Desktop\TotemPublicitarioSystem\obj\Debug\Interop.WMPLib.dll
+C:\Users\BORA BORA\Desktop\TotemPublicitarioSystem\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\BORA BORA\Desktop\TotemPublicitarioSystem\obj\Debug\TotemPublicitarioSystem.vbproj.ResolveComReference.cache
+C:\Users\BORA BORA\Desktop\TotemPublicitarioSystem\obj\Debug\TotemPublicitarioSystem.Form1.resources
+C:\Users\BORA BORA\Desktop\TotemPublicitarioSystem\obj\Debug\TotemPublicitarioSystem.Resources.resources
+C:\Users\BORA BORA\Desktop\TotemPublicitarioSystem\obj\Debug\TotemPublicitarioSystem.vbproj.GenerateResource.cache
+C:\Users\BORA BORA\Desktop\TotemPublicitarioSystem\obj\Debug\TotemPublicitarioSystem.vbproj.CoreCompileInputs.cache
+C:\Users\BORA BORA\Desktop\TotemPublicitarioSystem\obj\Debug\TotemPublicitarioSystem.vbproj.CopyComplete
+C:\Users\BORA BORA\Desktop\TotemPublicitarioSystem\obj\Debug\TotemPublicitarioSystem.exe
+C:\Users\BORA BORA\Desktop\TotemPublicitarioSystem\obj\Debug\TotemPublicitarioSystem.xml
+C:\Users\BORA BORA\Desktop\TotemPublicitarioSystem\obj\Debug\TotemPublicitarioSystem.pdb
